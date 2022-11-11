@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josué</h1>
 <h3 align="center">I'm a computer systems engeneering student specialized in frontend development.</h3>
 
-- 🔭 I’m currently working on [my portfolio page](https://github.com/josushu0/portfolio)
+- 🔭 I’m currently working on [a higher or lower game](https://higherloweranime.vercel.app) made with react
 
 - 🌱 I’m currently learning **React** and **Next**
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/josushu0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josushu0" height="30" width="40" /></a>
+<a href="https://masto.ai/@josushu0" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="josushu0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josuemartell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josuemartell" height="30" width="40" /></a>
 </p>
 
