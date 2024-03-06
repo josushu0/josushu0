@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josué</h1>
-<h3 align="center">I'm a computer systems engeneering student specialized in frontend development.</h3>
+<h3 align="center">I'm a Web developer.</h3>
 
 - 🔭 I’m currently working on [a higher or lower game](https://higherloweranime.vercel.app) made with react
 
