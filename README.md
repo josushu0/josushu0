@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josué</h1>
 <h3 align="center">I'm a Web developer.</h3>
 
-- 🔭 I’m currently working on [a project manager made with Laravel](https://github.com/josushu0/Kann) made with react
+- 🔭 I’m currently working on [a project manager](https://github.com/josushu0/Kann) made with Laravel and Vue
 
 - 🌱 I’m currently learning **Php** and **Laravel**
 
